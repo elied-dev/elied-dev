@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="images/profile.png" width="100">
+<img src="https://avatars.githubusercontent.com/u/106579448?v=4" width="100">
 </div>
 
 <p align="center">
